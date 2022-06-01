@@ -1,5 +1,5 @@
 #Prime Number Checker + Time Module to measure speed of algorithm
-#Return 'True' if x is Prime, return 'False' otherwise
+
 import time
 for x in range(2,101):
     prime = True
